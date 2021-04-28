@@ -93,7 +93,6 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     fontSize: 30,
     textAlign: "left",
-    // backgroundColor: "#000000a0"
   },
   userContainer: {
     paddingTop: 50,
@@ -130,7 +129,7 @@ const styles = StyleSheet.create({
     justifyContent: "space-around",
   },
   scrollView: {
-    backgroundColor: "pink",
+    backgroundColor: "#060B33",
   },
 });
 

@@ -18,7 +18,7 @@ import ProgressBarAnimated from "react-native-progress-bar-animated";
 
 function AllowanceComponent(props) {
   const window = Dimensions.get("window");
-  var progress = 50;
+  var progress = 65;
 
   const progressCustomStyles = {
     borderRadius: 10,
